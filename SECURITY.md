@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Please report a vulnerability to `security@tinode.co`.
+Please report a vulnerability to `anahothem@outlook.com`.
 
 ## Do NOT to report:
 
